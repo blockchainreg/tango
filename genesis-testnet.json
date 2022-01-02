@@ -22,13 +22,13 @@
   "gasLimit": "0x2faf080",
   "difficulty": "0x1",
   "alloc": {
-    "0xdDCC91E1B7AAf0B23397bE54075D3cB6Dd395088": {
+    "0x440a2Cb140F5f40eF48349D0E48c9499159C1645": {
       "balance": "0x8c298674147d7cd3400000"
     },
     "0x707bb955ae59626e5908e9a94c16ff7a6f7035f1": {
       "balance": "0x1"
     },
-    "0x85C3B11dDd3e8442834a54Cd1Eab9dd32F3F9485": {
+    "0xD5bA7a6E4A7dd7Ce336898172f35bB14b1A30FBB": {
       "balance": "0x1"
     },
     "0x000000000000000000000000000000000000f000": {
