@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/TangoChain/tango/master/logo_small.png"/>
 
-## Tango Chain
+##  Chain
 
 Official Tango Chain Golang Client based on the go-ethereum implementation.
 
